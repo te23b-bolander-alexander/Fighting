@@ -1,0 +1,15 @@
+c:\Users\Alexander.bolander\Documents\Programering 1\Fighting\Fighting\obj\Debug\net8.0\Fighting.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Alexander.bolander\Documents\Programering 1\Fighting\Fighting\obj\Debug\net8.0\Fighting.AssemblyInfoInputs.cache
+c:\Users\Alexander.bolander\Documents\Programering 1\Fighting\Fighting\obj\Debug\net8.0\Fighting.AssemblyInfo.cs
+c:\Users\Alexander.bolander\Documents\Programering 1\Fighting\Fighting\obj\Debug\net8.0\Fighting.csproj.CoreCompileInputs.cache
+c:\Users\Alexander.bolander\Documents\Programering 1\Fighting\Fighting\bin\Debug\net8.0\Fighting.exe
+c:\Users\Alexander.bolander\Documents\Programering 1\Fighting\Fighting\bin\Debug\net8.0\Fighting.deps.json
+c:\Users\Alexander.bolander\Documents\Programering 1\Fighting\Fighting\bin\Debug\net8.0\Fighting.runtimeconfig.json
+c:\Users\Alexander.bolander\Documents\Programering 1\Fighting\Fighting\bin\Debug\net8.0\Fighting.dll
+c:\Users\Alexander.bolander\Documents\Programering 1\Fighting\Fighting\bin\Debug\net8.0\Fighting.pdb
+c:\Users\Alexander.bolander\Documents\Programering 1\Fighting\Fighting\obj\Debug\net8.0\Fighting.sourcelink.json
+c:\Users\Alexander.bolander\Documents\Programering 1\Fighting\Fighting\obj\Debug\net8.0\Fighting.dll
+c:\Users\Alexander.bolander\Documents\Programering 1\Fighting\Fighting\obj\Debug\net8.0\refint\Fighting.dll
+c:\Users\Alexander.bolander\Documents\Programering 1\Fighting\Fighting\obj\Debug\net8.0\Fighting.pdb
+c:\Users\Alexander.bolander\Documents\Programering 1\Fighting\Fighting\obj\Debug\net8.0\Fighting.genruntimeconfig.cache
+c:\Users\Alexander.bolander\Documents\Programering 1\Fighting\Fighting\obj\Debug\net8.0\ref\Fighting.dll
