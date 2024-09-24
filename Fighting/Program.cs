@@ -10,7 +10,7 @@ Random generator = new Random();
 while (Player1hp > 0 && Player2hp > 0)
 {
 Console.WriteLine("\n ____ ==== STARTA NY RUNDA ==== ____");
-Console.WriteLine($"{Player1name}: {Player1hp} {Player2name}: Player2hp\n");
+Console.WriteLine($"{Player1name}: {Player1hp} hp {Player2name}: {Player2hp} hp\n");
 Console.ReadLine();
 
 int Player1Damage = generator.Next(20);
